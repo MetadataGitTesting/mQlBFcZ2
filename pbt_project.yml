@@ -1,0 +1,57 @@
+name: reyes.beier
+description: value-added
+version: 1.5.619
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: reyesbeier
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:36:33'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:36:33'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:36:33.128641Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '1111984869'
+  createdAt: '2024-12-08T20:36:33.128641Z'
+  type: plibMaven
+projectDependencies:
+  '362':
+    projectUID: 362
+    projectName: king.hamill
+    repositoryPath: gitUri=http://gitserver:3000/dev_w0oIaLUA_team_606/dev_w0oIaLUA_project_362.git&subPath=
+    version: king.hamill/0.44.530
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 20:36:31'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
